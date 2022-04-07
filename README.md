@@ -21,6 +21,9 @@ This body tracker works faster in Chrome
 #### Reference
 
 https://mimicproject.com/guides/learner
+
 https://p5js.org/examples
+
 https://p5js.org/reference/
+
 https://p5js.org/learn/
