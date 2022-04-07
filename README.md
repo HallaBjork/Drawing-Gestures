@@ -4,7 +4,8 @@ Artificial Intelligence for the Media - Practical Exam
 
 
 **Date:**  22/03/2021 - 29/03/2021
-**Link:** https://mimicproject.com/code/9924b493-bcff-5325-5357-22226e91e1aa
+
+**Link:** https://mimicproject.com/code/9f308a64-9d6a-d59f-81f8-a46b4f96fe9d
 
 
 ### Project
