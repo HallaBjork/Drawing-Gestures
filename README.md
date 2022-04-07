@@ -18,6 +18,8 @@ The reason I chose the wrists was for the waving motions. However, through trial
 
 This body tracker works faster in Chrome
 
+***
+
 #### Reference
 
 https://mimicproject.com/guides/learner
